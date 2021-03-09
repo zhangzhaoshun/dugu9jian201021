@@ -14,5 +14,9 @@ public class Dugu9jian {
         System.out.println("独孤九剑！");
         System.out.println("独孤九剑！");
         System.out.println("气宗好     ！！！！！");
+        System.out.println("气宗好     ！！！！！");
+        System.out.println("气宗好     ！！！！！");
+        System.out.println("气宗好     ！！！！！");
+        System.out.println("气宗好     ！！！！！");
     }
 }
